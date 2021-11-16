@@ -1,4 +1,6 @@
 print('')
-print('Git proba')
-print('Ez már a második commit')
+print('Írj be két számot: ')
+elsoSzam = int(input('Elso szám: '))
+masodikSzam = int(input('Masodik szam: '))
+print('Két szám összege: ', elsoSzam + masodikSzam)
 print('')
